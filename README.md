@@ -8,5 +8,7 @@ It is a simple HTML, CSS, and JavaScript project that I did to solidified my kno
 Project preview:
 
 mobile
+![LR-3](https://user-images.githubusercontent.com/122091196/230674686-34991b94-57ee-46bd-ae4c-3b9cf12ea493.png)
+
 
 Link to live site: 
