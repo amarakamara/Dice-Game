@@ -24,11 +24,10 @@ window.addEventListener("load", () => {
 //Cancels the prompt
 cancelPrompt.addEventListener("click", () => {
   promptContainer.style.display = "none";
+  winner.innerHTML = "Player One Roll";
 });
 
-setTimeout(() => {
-  winner.innerHTML = "Player One Roll";
-}, 2000);
+
 
 //Initializing the game
 player1Turn();
