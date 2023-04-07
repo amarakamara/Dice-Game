@@ -14,4 +14,4 @@ Project preview( Laptop/Desktop):
 ![LR-2](https://user-images.githubusercontent.com/122091196/230675014-286cb67b-b1e2-4b1e-80bf-2a925b4a9794.png)
 
 
-Link to live site: 
+Link to live site: https://letsrollit.netlify.app/
